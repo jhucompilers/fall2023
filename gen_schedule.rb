@@ -9,26 +9,24 @@ title: "Schedule"
 category: "schedule"
 ---
 
-This page lists lecture topics, readings, and exam dates.  It also lists assignment due dates.
+This page lists topics, readings, and has links to lecture slides.
+It also lists assignment due dates and exam dates.  Dates <span class="tentative">in
+gray italic</span> are tentative.
 
 The links to slides are provided for reference.  In general, there is no
 guarantee that they will be posted before class, or that their content
 will not change.
+
+*Note*: The schedule will become more concrete as the semester
+progresses.  Tentative topics, readings, assignments, etc. are marked
+<span class="tentative">in a lighter italic font</span>: expect that
+these could change.
 
 Readings:
 
 * EaC is Cooper and Torczon, [Engineering a Compiler (2nd
   Ed.)](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
 * F&amp;B is Levine, [Flex and Bison](https://www.oreilly.com/library/view/flex-bison/9780596805418/)
-
-*Note*: The schedule will become more concrete as the semester
-progresses. Expect it to be updated frequently.  Tentative topics,
-readings, assignments, etc. are marked <span class="tentative">in
-a lighter italic font</span>: expect that these could change.
-
-This page lists topics, readings, and has links to lecture slides.
-It also lists assignment due dates.  Dates <span class="tentative">in
-gray</span> are tentative.
 
 Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic/Slides | Reading | Assignment
 ------------------ | ------------ | ------- | ----------
