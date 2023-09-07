@@ -31,5 +31,7 @@ and/or Gradescope.
 
 ## News
 
+* **Sep 7** — A [precedence climbing demo program](resources.html#precedence-climbing-example) has been posted on
+  the [Resources Page](resources.html).
 * **Aug 28** — Welcome! [Assignment 1](assign/assign01.html) is due Friday, Sep 15th
   by 11pm.

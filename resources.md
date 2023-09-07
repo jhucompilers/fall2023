@@ -11,6 +11,41 @@ category: "resources"
 * [CMU summary of gdb commands for x86-64](http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.pdf)
 * [JHU CSF x86-64 assembly language guide](https://jhucsf.github.io/csfdocs/assembly-tips-v0.1.1.pdf)
 
+# Example code
+
+## Precedence climbing example
+
+[prec-climb.zip](resources/prec-climb.zip) is an example implementation of precedence
+climbing. The `Parser::parse_work` function in `prec_climb.cpp` is the implementation
+of the algorithm. It's written in a purely-recursive way, which might make it easier
+to understand than the pseudo-code in the
+[Wikipedia article on precedence climbing](https://en.wikipedia.org/wiki/Operator-precedence_parser).
+
+Note that the lexer requires spaces between tokens. (E.g., `a+b` would be considered one
+token, so you should type `a + b` instead.)
+
+Example run (user input in **bold**):
+
+<div class='highlighter-rouge'><pre>
+$ <b>./prec_climb</b>
+<b>a + b * 3 - 4 * 2 ^ b ^ 3</b>
+OP_MINUS[-]
++--OP_PLUS[+]
+|  +--IDENT[a]
+|  +--OP_TIMES[*]
+|     +--IDENT[b]
+|     +--NUMBER[3]
++--OP_TIMES[*]
+   +--NUMBER[4]
+   +--OP_EXP[^]
+      +--NUMBER[2]
+      +--OP_EXP[^]
+         +--IDENT[b]
+         +--NUMBER[3]
+</pre></div>
+
+Please [let me know](mailto:daveho@cs.jhu.edu) if you find bugs in this code!
+
 # Exam review materials
 
 *Coming soon!*
