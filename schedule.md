@@ -33,8 +33,8 @@ Sep 11 | [ASTs, interpreters](lectures/lecture04-public.pdf) |  |
 Sep 13 | [Interpreter runtime structures](lectures/lecture05-public.pdf) |  | [A1](assign/assign01.html) due<br>Fri 9/15
 Sep 18 | [Interpreter runtime structures 2](lectures/lecture06-public.pdf) | [Gosling, Java Intermediate Bytecodes](https://dl.acm.org/doi/pdf/10.1145/202529.202541) | 
 Sep 20 | [Lexical analyzer generators, lex/flex](lectures/lecture07-public.pdf) | EaC 2.1–2.5, F&amp;B Chapters 1–2 | 
-Sep 25 | [Parser generators, yacc/bison](lectures/lecture08-public.pdf) | F&amp;B Chapter 3 | [A2](assign/assign02.html) MS1 due
-Sep 27 | [LL(1) parsing](lectures/lecture09-public.pdf) | EaC 3.3 | 
+Sep 25 | [LL(1) parsing](lectures/lecture08-public.pdf) | EaC 3.3 | [A2](assign/assign02.html) MS1 due
+Sep 27 | [Parser generators, yacc/bison](lectures/lecture09-public.pdf) | F&amp;B Chapter 3 | 
 Oct 2 | [Bottom-up parsing, Exam 1 review](lectures/lecture10-public.pdf) | EaC 3.4 | 
 Oct 4 | Exam 1 |  | [A2](assign/assign02.html) MS2 due<br>Thurs 10/5
 Oct 9 | <span class='tentative'>C syntax and semantics</span> |  | 

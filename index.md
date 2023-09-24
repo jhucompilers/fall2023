@@ -31,6 +31,10 @@ and/or Gradescope.
 
 ## News
 
+* **Sep 24** — Exam 1 will take place in class on **Wednesday, Oct 4th**.
+  It is closed book and no electronics, but you may bring one sheet of
+  hand-written notes. (Writing on both sides is allowed.)
+  Review materials are available on the [Resources](resources.html) page.
 * **Sep 13** — [Assignment 2](assign/assign02.html) has two milestones, due
   Monday, Sep 25th and Thursday, Oct 5th respectively.
 * **Sep 7** — A [precedence climbing demo program](resources.html#precedence-climbing-example) has been posted on

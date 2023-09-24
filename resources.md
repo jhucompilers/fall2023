@@ -48,9 +48,6 @@ Please [let me know](mailto:daveho@cs.jhu.edu) if you find bugs in this code!
 
 # Exam review materials
 
-*Coming soon!*
-
-<!--
 Note that in Fall 2020 the exams were take-home exams, so the format is
 different than what you will see when you take Exam 1 in class.
 However, the questions should still be useful for review purposes.
@@ -63,6 +60,7 @@ For Exam 1:
 * [Fall 2020 Exam 2](resources/exam02-628.pdf), [Solution](resources/exam02_soln.pdf) (Questions 1–5 are relevant)
 * [Fall 2021 Exam 1](resources/exam01-fall2021.pdf), [Solution](resources/exam01-fall2021-solution.pdf) (All questions are relevant)
 
+<!--
 For Exam 2:
 
 * [Fall 2020 Exam 2](resources/exam02-628.pdf), [Solution](resources/exam02_soln.pdf) (Question 6 is relevant)
