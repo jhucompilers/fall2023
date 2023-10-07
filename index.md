@@ -31,6 +31,9 @@ and/or Gradescope.
 
 ## News
 
+* **Oct 7** — [Assignment 3](assign/assign03.html) is due Monday, Oct 23rd.
+  Also, the [Schedule](schedule.html) page has been updated with slides for
+  Oct 9th and 11th.
 * **Sep 24** — Exam 1 will take place in class on **Wednesday, Oct 4th**.
   It is closed book and no electronics, but you may bring one sheet of
   hand-written notes. (Writing on both sides is allowed.)
