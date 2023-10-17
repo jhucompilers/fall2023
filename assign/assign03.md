@@ -543,7 +543,7 @@ left = right; // a legal assignment
 
 In the code above, `left`'s base type is `const char` and `right`'s base type
 is `char`. The unqualified base types are both `char`, an exact match.
-`right`'s base type does not have any qualifiers that `left`'s base type has.
+`right`'s base type does not have any qualifiers that `left`'s base type lacks.
 
 The following code is *not* legal:
 
