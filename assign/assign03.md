@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3"
 ---
 
-**Due date**: Monday, Oct 23rd by 11pm Baltimore time
+**Due date**: Wednesday, Oct 25th by 11pm Baltimore time
 
 # Compiler: semantic analysis
 

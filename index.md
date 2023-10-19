@@ -31,6 +31,8 @@ and/or Gradescope.
 
 ## News
 
+* **Oct 19** — The due date for [Assignment 3](assign/assign03.html)
+  has been moved to Wednesday, Oct 25th.
 * **Oct 7** — [Assignment 3](assign/assign03.html) is due Monday, Oct 23rd.
   Also, the [Schedule](schedule.html) page has been updated with slides for
   Oct 9th and 11th.
