@@ -31,6 +31,8 @@ and/or Gradescope.
 
 ## News
 
+* **Oct 22** — [Assignment 4](assign/assign04.html) has two milestones,
+  due Friday, Nov 3rd and Friday, Nov 17th, respectively.
 * **Oct 19** — The due date for [Assignment 3](assign/assign03.html)
   has been moved to Wednesday, Oct 25th.
 * **Oct 7** — [Assignment 3](assign/assign03.html) is due Monday, Oct 23rd.
