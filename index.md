@@ -31,6 +31,10 @@ and/or Gradescope.
 
 ## News
 
+* **Oct 25** — Exam 2 will take place in class on **Monday, Nov 6th**.
+  It is closed book and no electronics, but you may bring one sheet of
+  hand-written notes. (Writing on both sides is allowed.)
+  Review materials are available on the [Resources](resources.html) page.
 * **Oct 22** — [Assignment 4](assign/assign04.html) has two milestones,
   due Friday, Nov 3rd and Friday, Nov 17th, respectively.
 * **Oct 19** — The due date for [Assignment 3](assign/assign03.html)
