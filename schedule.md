@@ -44,7 +44,7 @@ Oct 18 | [Code generation for expressions](lectures/lecture14-public.pdf) | EaC 
 Oct 19–20 | **Fall break (no classes)** |  | 
 Oct 23 | [x86-64 assembly language, low-level codegen](lectures/lecture15-public.pdf) |  | 
 Oct 25 | [Conditions, decisions, and loops](lectures/lecture16-public.pdf) | EaC 7.8 | [A3](assign/assign03.html) due
-Oct 30 | Arrays and strings, struct types, function calls | EaC 7.5–7.7, 7.9 | 
+Oct 30 | [Pointers, arrays, structs, function calls](lectures/lecture17-public.pdf) | EaC 7.5–7.7, 7.9 | 
 Nov 1 | Exam 2 review, codegen work day |  | [A4](assign/assign04.html) MS1 due<br>Fri 11/3
 Nov 6 | **Exam 2** |  | 
 Nov 8 | Intro to code optimization, local value numbering | EaC 8.1–8.5 | 
