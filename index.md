@@ -31,6 +31,8 @@ and/or Gradescope.
 
 ## News
 
+* **Nov 12** — [Assignment 5](assign/assign05.html) is due
+  Friday, Dec 8th.
 * **Oct 25** — Exam 2 will take place in class on **Monday, Nov 6th**.
   It is closed book and no electronics, but you may bring one sheet of
   hand-written notes. (Writing on both sides is allowed.)
