@@ -54,5 +54,5 @@ Nov 20–24 | **Fall recess (no classes)** |  |
 Nov 27 | Peephole optimization | EaC 11.5 | 
 Nov 29 | Dataflow analysis | EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a> | 
 Dec 4 | <span class='tentative'>SSA representation, global optimization</span> |  | 
-Dec 6 | <span class='tentative'>Exam review, work day</span> |  | <span class='tentative'>A5 due</span>
-TBD | **Exam 3**, during scheduled final exam time slot |  | 
+Dec 6 | <span class='tentative'>Exam review, work day</span> |  | A5 due<br>Fri 12/8
+Dec 15 | **Exam 3** (2pm, in Hodson 311) |  | 
