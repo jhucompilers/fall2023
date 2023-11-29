@@ -31,6 +31,10 @@ and/or Gradescope.
 
 ## News
 
+* **Nov 28** — Exam 3 will take place at **2 pm on Friday, Dec 15th**,
+  in Hodson 311 (our usual classroom.) The exam is closed book/no electronics,
+  but you may bring one sheet of handwritten notes. Review materials are
+  available on the [Resources](resources.html) page.
 * **Nov 12** — [Assignment 5](assign/assign05.html) is due
   Friday, Dec 8th.
 * **Oct 25** — Exam 2 will take place in class on **Monday, Nov 6th**.
