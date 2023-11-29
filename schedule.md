@@ -52,7 +52,7 @@ Nov 13 | Global optimization/liveness analysis: [slides](lectures/Global_Optimiz
 Nov 15 | Local register allocation: [slides](lectures/Local_Register_Allocation_and_Lab_1.pdf), [slides](lectures/lecture20-public.pdf) | EaC 13.1–13.3 | [A4](assign/assign04.html) MS2 due<br>Fri 11/17
 Nov 20–24 | **Fall recess (no classes)** |  | 
 Nov 27 | [Peephole optimization](lectures/lecture21-public.pdf) | EaC 11.5 | 
-Nov 29 | Dataflow analysis | EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a> | 
+Nov 29 | Dataflow analysis: [slides](lectures/foster-dataflow.pdf), [slides](lectures/lecture22-public.pdf) | EaC 9.1–9.2, <a href='lectures/kildall-popl73.pdf'>Kildall-POPL73</a> | 
 Dec 4 | <span class='tentative'>SSA representation, global optimization</span> |  | 
 Dec 6 | <span class='tentative'>Exam review, work day</span> |  | [A5](assign/assign05.html) due<br>Fri 12/8
 Dec 15 | **Exam 3** (2pm, in Hodson 311) |  | 
